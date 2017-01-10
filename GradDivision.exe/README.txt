@@ -1,17 +1,8 @@
-CS114 Project 1: WebGL
+INF117 Project: We worked for UCI GradDivision to develop a check-in system for UCI graduate school orientation
 
-The main focus of this project is using WebGL's fragment shader to implement a number of shading models:
-Diffuse Shading
-Phong and Blinn-Phong Shading
-(Isotropic) Microfacet Shading
+The project is basically 
 
-Programming Language & API: Javascript, OpenGL
-My part: Only modified several shaders in proj1_student.html
-
-Project link: https://gilberttang.github.io/CS114/Shader/
-Reference link: https://gilberttang.github.io/CS114/proj1/
+Programming Lanugauge: C++/CLI 
+My part: All the coding of this project
 
 
-Check your browser that support WebGL or not: 
-http://webglreport.com/?v=1
-http://caniuse.com/#feat=webgl
