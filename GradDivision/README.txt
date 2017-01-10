@@ -1,6 +1,6 @@
 INF117 Project: We worked for UCI GradDivision to develop a check-in system for UCI graduate school orientation
 
-The project is basically 
+Read the tutorial "GradDivisionTutorial.doc" to get more details.
 
 Programming Lanugauge: C++/CLI 
 My part: All the coding of this project
